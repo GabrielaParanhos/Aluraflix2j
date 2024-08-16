@@ -1,8 +1,16 @@
 body{
     color: yellow;
     background: rgb(204, 187, 187);
+
+    margin: 0px;
 }
 
 header{
-    
+    border-bottom: solid 2px black;
+
+    padding: 20px;
+
+    font-size: 32px;
+
+    color: blueviolet;
 }
